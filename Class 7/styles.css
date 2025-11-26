@@ -1,0 +1,121 @@
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+.preview {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+}
+
+.preview-figma-1-1 {
+  position: absolute;
+  height: 1080px;
+  left: 52px;
+  top: 57px;
+  width: 1920px;
+  background-image: url("https://www.figma.com/api/mcp/asset/d2890843-dc1a-45c1-bd77-479448ce0432");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.preview-figma-2-1 {
+  position: absolute;
+  height: 1080px;
+  left: 52px;
+  top: 1205px;
+  width: 1920px;
+  background-image: url("https://www.figma.com/api/mcp/asset/0183680a-b915-4cc1-bbf5-67e3f1c6bb30");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.preview-figma-3-1 {
+  position: absolute;
+  height: 1080px;
+  left: 52px;
+  top: 2353px;
+  width: 1920px;
+  background-image: url("https://www.figma.com/api/mcp/asset/549313fc-52cc-4d66-8082-adacab9b47e3");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.preview-figma-4-1 {
+  position: absolute;
+  height: 1080px;
+  left: 52px;
+  top: 3501px;
+  width: 1920px;
+  background-image: url("https://www.figma.com/api/mcp/asset/95fedc18-eae0-4b74-9c3e-79025898a007");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.preview-figma-5-1 {
+  position: absolute;
+  height: 1080px;
+  left: 52px;
+  top: 4649px;
+  width: 1920px;
+  background-image: url("https://www.figma.com/api/mcp/asset/5bc822a9-07f6-4c7f-92e7-c575bcf7d1f3");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.preview-figma-6-1 {
+  position: absolute;
+  height: 1080px;
+  left: 52px;
+  top: 5797px;
+  width: 1920px;
+  background-image: url("https://www.figma.com/api/mcp/asset/bddcc07f-22b2-4ddf-9c7f-4afffd658449");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.preview-figma-6-2 {
+    position: absolute;
+    height: 1080px;
+    left: 52px;
+    top: 6945px;
+    width: 1920px;
+    background-image: url("https://www.figma.com/api/mcp/asset/bddcc07f-22b2-4ddf-9c7f-4afffd658449");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.preview-figma-8-1 {
+  position: absolute;
+  height: 1080px;
+  left: 52px;
+  top: 8093px;
+  width: 1920px;
+  background-image: url("https://www.figma.com/api/mcp/asset/90b24eba-60e0-4a8f-b253-897a7eae35a0");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.preview-figma-9-1 {
+  position: absolute;
+  height: 1080px;
+  left: 52px;
+  top: 9241px;
+  width: 1920px;
+  background-image: url("https://www.figma.com/api/mcp/asset/93af061a-5e6f-45d5-bcee-ce1aae19e0d2");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.preview-figma-10-1 {
+  position: absolute;
+  height: 1080px;
+  left: 52px;
+  top: 10389px;
+  width: 1920px;
+  background-image: url("https://www.figma.com/api/mcp/asset/688eab48-4f3d-4830-86bb-06464dd826da");
+  background-size: cover;
+  background-position: 50% 50%;
+}
